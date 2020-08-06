@@ -9,4 +9,4 @@ on the time of the day production/consumption of electrical energy), and sends/r
 C# in Visual Studio 2017. Design was built with WPF (MVVM and classical behind code in some projects). For database were used: Entity Framework and Microsoft SQL Server Management Studio 18.
 
 # Created By
-Nikola Ostojic on faculty course "Power Software Development" (free translate of course name).
+Nikola Ostojic on faculty course "Electric power software development".
